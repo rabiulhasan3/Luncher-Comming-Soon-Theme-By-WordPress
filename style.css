@@ -1,0 +1,20 @@
+/*
+Theme Name: Luncher
+Theme URI: https://wordpress.org/themes/luncher/
+Author: Rabiul Hasan
+Author URI: https://xhasan.me/
+Description: Upcoming Soon Luncher Theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: luncher
+Tags:blog,education,magazine.
+*/
+
+#fh5co-logo a{
+	font-size: 48px;
+	color : #222;
+}
+#fh5co-logo{
+	margin-top: 30px;
+}
